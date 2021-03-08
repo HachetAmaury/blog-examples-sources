@@ -1,13 +1,3 @@
----
-templateKey: rreact-context
-title: React Context Demo i18n
-date: "2021-03-08"
-description: React i18n integration using Context
-tags:
-  - React
-  - Context
----
-
 ## React, i18n & Context
 
 https://reactjs.org/docs/context.html
