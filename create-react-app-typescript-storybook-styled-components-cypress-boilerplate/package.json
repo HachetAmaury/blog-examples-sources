@@ -1,6 +1,6 @@
 {
   "name": "create-react-app-typescript-storybook-styled-components-cypress-boilerplate",
-  "homepage": "https://hachetamaury.github.io/blog-exemples-sources/create-react-app-typescript-storybook-styled-components-cypress-boilerplate/build/",
+  "homepage": "https://hachetamaury.github.io/blog-examples-sources/create-react-app-typescript-storybook-styled-components-cypress-boilerplate/build/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

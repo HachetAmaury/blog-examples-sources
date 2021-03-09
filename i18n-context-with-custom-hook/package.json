@@ -1,6 +1,6 @@
 {
   "name": "i18n-context",
-  "homepage": "https://hachetamaury.github.io/blog-exemples-sources/i18n-context-with-custom-hook/build/",
+  "homepage": "https://hachetamaury.github.io/blog-examples-sources/i18n-context-with-custom-hook/build/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
