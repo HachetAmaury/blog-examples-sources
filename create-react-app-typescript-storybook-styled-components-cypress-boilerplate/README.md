@@ -158,7 +158,7 @@ yarn run cypress:open
 
 Test should be available and by clicking on it, it should run correctly
 
-And that's it, we have a boilerplate contining :
+And that's it, we have a boilerplate containing :
 
 - Create react app
 - Typescript
