@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/blog-exemples-sources/i18n-context-with-custom-hook/build/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/blog-exemples-sources/i18n-context-with-custom-hook/build/static/js/main.5e05b9cf.chunk.js",
-    "main.js.map": "/blog-exemples-sources/i18n-context-with-custom-hook/build/static/js/main.5e05b9cf.chunk.js.map",
-    "runtime-main.js": "/blog-exemples-sources/i18n-context-with-custom-hook/build/static/js/runtime-main.f676591b.js",
-    "runtime-main.js.map": "/blog-exemples-sources/i18n-context-with-custom-hook/build/static/js/runtime-main.f676591b.js.map",
-    "static/js/2.003b6228.chunk.js": "/blog-exemples-sources/i18n-context-with-custom-hook/build/static/js/2.003b6228.chunk.js",
-    "static/js/2.003b6228.chunk.js.map": "/blog-exemples-sources/i18n-context-with-custom-hook/build/static/js/2.003b6228.chunk.js.map",
-    "static/js/3.4acd288f.chunk.js": "/blog-exemples-sources/i18n-context-with-custom-hook/build/static/js/3.4acd288f.chunk.js",
-    "static/js/3.4acd288f.chunk.js.map": "/blog-exemples-sources/i18n-context-with-custom-hook/build/static/js/3.4acd288f.chunk.js.map",
-    "index.html": "/blog-exemples-sources/i18n-context-with-custom-hook/build/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/blog-exemples-sources/i18n-context-with-custom-hook/build/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.003b6228.chunk.js.LICENSE.txt": "/blog-exemples-sources/i18n-context-with-custom-hook/build/static/js/2.003b6228.chunk.js.LICENSE.txt"
+    "main.css": "/blog-examples-sources/i18n-context-with-custom-hook/build/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/blog-examples-sources/i18n-context-with-custom-hook/build/static/js/main.5e05b9cf.chunk.js",
+    "main.js.map": "/blog-examples-sources/i18n-context-with-custom-hook/build/static/js/main.5e05b9cf.chunk.js.map",
+    "runtime-main.js": "/blog-examples-sources/i18n-context-with-custom-hook/build/static/js/runtime-main.1e51617a.js",
+    "runtime-main.js.map": "/blog-examples-sources/i18n-context-with-custom-hook/build/static/js/runtime-main.1e51617a.js.map",
+    "static/js/2.003b6228.chunk.js": "/blog-examples-sources/i18n-context-with-custom-hook/build/static/js/2.003b6228.chunk.js",
+    "static/js/2.003b6228.chunk.js.map": "/blog-examples-sources/i18n-context-with-custom-hook/build/static/js/2.003b6228.chunk.js.map",
+    "static/js/3.4acd288f.chunk.js": "/blog-examples-sources/i18n-context-with-custom-hook/build/static/js/3.4acd288f.chunk.js",
+    "static/js/3.4acd288f.chunk.js.map": "/blog-examples-sources/i18n-context-with-custom-hook/build/static/js/3.4acd288f.chunk.js.map",
+    "index.html": "/blog-examples-sources/i18n-context-with-custom-hook/build/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/blog-examples-sources/i18n-context-with-custom-hook/build/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.003b6228.chunk.js.LICENSE.txt": "/blog-examples-sources/i18n-context-with-custom-hook/build/static/js/2.003b6228.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f676591b.js",
+    "static/js/runtime-main.1e51617a.js",
     "static/js/2.003b6228.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.5e05b9cf.chunk.js"

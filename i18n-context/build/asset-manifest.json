@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/blog-exemples-sources/i18n-context/build/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/blog-exemples-sources/i18n-context/build/static/js/main.859e3dd5.chunk.js",
-    "main.js.map": "/blog-exemples-sources/i18n-context/build/static/js/main.859e3dd5.chunk.js.map",
-    "runtime-main.js": "/blog-exemples-sources/i18n-context/build/static/js/runtime-main.84162ba9.js",
-    "runtime-main.js.map": "/blog-exemples-sources/i18n-context/build/static/js/runtime-main.84162ba9.js.map",
-    "static/js/2.158f77f7.chunk.js": "/blog-exemples-sources/i18n-context/build/static/js/2.158f77f7.chunk.js",
-    "static/js/2.158f77f7.chunk.js.map": "/blog-exemples-sources/i18n-context/build/static/js/2.158f77f7.chunk.js.map",
-    "static/js/3.c388d778.chunk.js": "/blog-exemples-sources/i18n-context/build/static/js/3.c388d778.chunk.js",
-    "static/js/3.c388d778.chunk.js.map": "/blog-exemples-sources/i18n-context/build/static/js/3.c388d778.chunk.js.map",
-    "index.html": "/blog-exemples-sources/i18n-context/build/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/blog-exemples-sources/i18n-context/build/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.158f77f7.chunk.js.LICENSE.txt": "/blog-exemples-sources/i18n-context/build/static/js/2.158f77f7.chunk.js.LICENSE.txt"
+    "main.css": "/blog-examples-sources/i18n-context/build/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/blog-examples-sources/i18n-context/build/static/js/main.859e3dd5.chunk.js",
+    "main.js.map": "/blog-examples-sources/i18n-context/build/static/js/main.859e3dd5.chunk.js.map",
+    "runtime-main.js": "/blog-examples-sources/i18n-context/build/static/js/runtime-main.708f0362.js",
+    "runtime-main.js.map": "/blog-examples-sources/i18n-context/build/static/js/runtime-main.708f0362.js.map",
+    "static/js/2.158f77f7.chunk.js": "/blog-examples-sources/i18n-context/build/static/js/2.158f77f7.chunk.js",
+    "static/js/2.158f77f7.chunk.js.map": "/blog-examples-sources/i18n-context/build/static/js/2.158f77f7.chunk.js.map",
+    "static/js/3.c388d778.chunk.js": "/blog-examples-sources/i18n-context/build/static/js/3.c388d778.chunk.js",
+    "static/js/3.c388d778.chunk.js.map": "/blog-examples-sources/i18n-context/build/static/js/3.c388d778.chunk.js.map",
+    "index.html": "/blog-examples-sources/i18n-context/build/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/blog-examples-sources/i18n-context/build/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.158f77f7.chunk.js.LICENSE.txt": "/blog-examples-sources/i18n-context/build/static/js/2.158f77f7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.84162ba9.js",
+    "static/js/runtime-main.708f0362.js",
     "static/js/2.158f77f7.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.859e3dd5.chunk.js"
