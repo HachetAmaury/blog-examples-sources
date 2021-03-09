@@ -1,6 +1,8 @@
 # Create react app boilerplate with Typescript, Styled components, Storybook and Cypress
 
+```bash
 npm init react-app . --template typescript
+```
 
 ```bash
 yarn add typescript @types/node @types/react @types/react-dom @types/jest
