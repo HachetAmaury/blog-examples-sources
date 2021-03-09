@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/blog-exemples-sources/create-react-app-typescript-storybook-styled-components-cypress-boilerplate/build/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/blog-exemples-sources/create-react-app-typescript-storybook-styled-components-cypress-boilerplate/build/static/js/main.94ad5490.chunk.js",
+    "main.js.map": "/blog-exemples-sources/create-react-app-typescript-storybook-styled-components-cypress-boilerplate/build/static/js/main.94ad5490.chunk.js.map",
+    "runtime-main.js": "/blog-exemples-sources/create-react-app-typescript-storybook-styled-components-cypress-boilerplate/build/static/js/runtime-main.e0b2e669.js",
+    "runtime-main.js.map": "/blog-exemples-sources/create-react-app-typescript-storybook-styled-components-cypress-boilerplate/build/static/js/runtime-main.e0b2e669.js.map",
+    "static/js/2.169c01c0.chunk.js": "/blog-exemples-sources/create-react-app-typescript-storybook-styled-components-cypress-boilerplate/build/static/js/2.169c01c0.chunk.js",
+    "static/js/2.169c01c0.chunk.js.map": "/blog-exemples-sources/create-react-app-typescript-storybook-styled-components-cypress-boilerplate/build/static/js/2.169c01c0.chunk.js.map",
+    "static/js/3.c8eff6b0.chunk.js": "/blog-exemples-sources/create-react-app-typescript-storybook-styled-components-cypress-boilerplate/build/static/js/3.c8eff6b0.chunk.js",
+    "static/js/3.c8eff6b0.chunk.js.map": "/blog-exemples-sources/create-react-app-typescript-storybook-styled-components-cypress-boilerplate/build/static/js/3.c8eff6b0.chunk.js.map",
+    "index.html": "/blog-exemples-sources/create-react-app-typescript-storybook-styled-components-cypress-boilerplate/build/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/blog-exemples-sources/create-react-app-typescript-storybook-styled-components-cypress-boilerplate/build/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.169c01c0.chunk.js.LICENSE.txt": "/blog-exemples-sources/create-react-app-typescript-storybook-styled-components-cypress-boilerplate/build/static/js/2.169c01c0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/blog-exemples-sources/create-react-app-typescript-storybook-styled-components-cypress-boilerplate/build/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0b2e669.js",
+    "static/js/2.169c01c0.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.94ad5490.chunk.js"
+  ]
+}
