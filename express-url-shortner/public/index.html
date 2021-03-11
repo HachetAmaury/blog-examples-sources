@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Express App</title>
+  </head>
+  <body>
+    Hello word !!!!!!!!!!!!!!!!
+    <form action="/urlShortner" id="urlShortnerForm" method="post">
+      <label for="fullUrl">Long url :</label><br />
+      <input type="text" name="fullUrl" id="fullUrl" />
+      <button id="submit-button">GO</button>
+    </form>
+    <script>
+      function submitUrlShortner() {
+        var myForm = document.getElementById("urlShortnerForm");
+        formData = new FormData(myForm);
+
+        const headers = new Headers();
+
+        headers.append("Content-Type", "application/json");
+
+        console.log(document.getElementById("fullUrl").value);
+
+        fetch("/urlShortner", {
+          method: "POST",
+          body: JSON.stringify({
+            fullUrl: document.getElementById("fullUrl").value,
+          }),
+          headers,
+        })
+          .then((response) => response.json())
+          .then((response) => {
+            // The API call was successful!
+            console.log("success!", response);
+          })
+          .catch((err) => {
+            // There was an error
+            console.warn("Something went wrong.", err);
+          });
+      }
+
+      document
+        .getElementById("submit-button")
+        .addEventListener("click", (e) => {
+          submitUrlShortner();
+          e.preventDefault();
+          e.stopPropagation();
+        });
+    </script>
+  </body>
+</html>

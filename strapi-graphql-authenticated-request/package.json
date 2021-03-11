@@ -36,3 +36,10 @@
   },
   "license": "MIT"
 }
+
+
+mkdir express-url-shortner
+cd express-url-shortner
+yarn init --yes
+yarn add express 
+yarn add --dev nodemon
