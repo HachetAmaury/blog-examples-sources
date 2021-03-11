@@ -18,9 +18,9 @@ const QUERY_WEATHER_FOR_CITY_QUERY = gql`
   }
 `;
 
-async function callAPI() {
+async function callAPI(cityName) {
   const variables = {
-    name: "Paris",
+    name: cityName,
   };
 
   const { getCityByName } = await request(
@@ -29,7 +29,7 @@ async function callAPI() {
     variables
   );
 
-  console.log(getCityByName);
+  return getCityByName;
 }
 
-callAPI();
+module.exports = callAPI;

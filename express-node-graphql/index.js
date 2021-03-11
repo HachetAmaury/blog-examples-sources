@@ -1,6 +1,6 @@
 require("dotenv").config();
 
-const graphql = require("./graphql");
+const callAPI = require("./graphql");
 
 const express = require("express");
 
@@ -16,8 +16,16 @@ app.use(bodyParser.json());
 // To handle basic html form
 app.use(bodyParser.urlencoded({ extended: true }));
 
-app.get("/", (req, res) => {
-  res.send("Hello World");
+app.get("/:id", async (req, res) => {
+  const weather = await callAPI(req.params.id);
+
+  res.json(weather);
+});
+
+app.get("/", async (req, res) => {
+  const weather = await callAPI("Paris");
+
+  res.json(weather);
 });
 
 http.listen(port, () => {
