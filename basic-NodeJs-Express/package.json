@@ -1,13 +1,12 @@
 {
-  "name": "basic-NodeJs-Express",
+  "name": "basic-nodejs-express",
   "version": "1.0.0",
   "description": "basic-NodeJs-Express",
   "main": "server.js",
   "author": "Hachet Amaury",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1",
-    "mongoose": "^5.11.19"
+    "express": "^4.17.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
