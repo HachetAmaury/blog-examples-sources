@@ -16,6 +16,7 @@
     "strapi": "3.5.3",
     "strapi-admin": "3.5.3",
     "strapi-connector-bookshelf": "3.5.3",
+    "strapi-connector-mongoose": "^3.5.3",
     "strapi-plugin-content-manager": "3.5.3",
     "strapi-plugin-content-type-builder": "3.5.3",
     "strapi-plugin-email": "3.5.3",
@@ -28,7 +29,7 @@
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "19593c90-ba22-4396-b52b-35950ef8b6e8"
+    "uuid": "46e76ad6-d069-471c-95fc-b7d7163bea36"
   },
   "engines": {
     "node": ">=10.16.0 <=14.x.x",
